@@ -16,5 +16,6 @@ public class E_Assign {
         System.out.println("Value f="+f);
         double d=3.14;
         System.out.println("Value d="+d);
+
     }
 }
